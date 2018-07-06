@@ -1,0 +1,34 @@
+D:\My Documents\Visual Studio 2008\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.Form1.resources
+D:\My Documents\Visual Studio 2008\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\SerialPortConnection\SerialPortConnection\bin\Debug\SerialPortConnection.exe
+D:\My Documents\Visual Studio 2008\Projects\SerialPortConnection\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+D:\My Documents\Visual Studio 2008\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+D:\My Documents\Visual Studio 2008\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
+E:\Hazy\下载\SerialPortConnection-master\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+E:\Hazy\下载\SerialPortConnection-master\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
+E:\Hazy\下载\SerialPortConnection-master\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.exe
+E:\Hazy\下载\SerialPortConnection-master\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+E:\Hazy\下载\SerialPortConnection-master\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csprojResolveAssemblyReference.cache
+E:\Hazy\下载\SerialPortConnection-master\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Form1.resources
+E:\Hazy\下载\SerialPortConnection-master\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+E:\Hazy\下载\SerialPortConnection-master\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.GenerateResource.Cache
+E:\Hazy\桌面\RFIDDesign\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+E:\Hazy\桌面\RFIDDesign\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
+E:\Hazy\桌面\RFIDDesign\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.exe
+E:\Hazy\桌面\RFIDDesign\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+E:\Hazy\桌面\RFIDDesign\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csprojResolveAssemblyReference.cache
+E:\Hazy\桌面\RFIDDesign\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Form1.resources
+E:\Hazy\桌面\RFIDDesign\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+E:\Hazy\桌面\RFIDDesign\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.GenerateResource.Cache
+E:\Hazy\桌面\RFIDDesign - 副本\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+E:\Hazy\桌面\RFIDDesign - 副本\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
+E:\Hazy\桌面\RFIDDesign - 副本\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.exe
+E:\Hazy\桌面\RFIDDesign - 副本\SerialPortConnection-master\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+E:\Hazy\桌面\RFIDDesign - 副本\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csprojResolveAssemblyReference.cache
+E:\Hazy\桌面\RFIDDesign - 副本\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Form1.resources
+E:\Hazy\桌面\RFIDDesign - 副本\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+E:\Hazy\桌面\RFIDDesign - 副本\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.GenerateResource.Cache
+E:\Hazy\桌面\RFID课程设计\RFIDDesign\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+E:\Hazy\桌面\RFID课程设计\RFIDDesign\SerialPortConnection-master\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
