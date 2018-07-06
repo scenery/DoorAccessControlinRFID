@@ -3,7 +3,7 @@
 Written in Jan,2018
 ## Version 1.0
 <div align=center>
-<img width="618" height="429" src="https://github.com/hazyao/DoorAccessControlinRFID/tree/master/RFIDmjkz/demo/demo.jpg"/>
+<img width="618" height="429" src="https://github.com/hazyao/DoorAccessControlinRFID/raw/master/RFIDmjkz/demo/demo.jpg"/>
 </div>
 </br>
 
